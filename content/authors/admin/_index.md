@@ -14,7 +14,7 @@ organizations:
   url: https://www.hnust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm still learning. I can use C , Python and Java. And I can use common database
+bio: I'm still learning. 
 
 # Interests to show in About widget
 interests:
