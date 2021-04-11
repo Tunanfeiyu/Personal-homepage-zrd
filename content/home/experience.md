@@ -34,9 +34,9 @@ experience:
         * Studying
         
   - title: Son
-    company: University X
+    company: Myhome
     company_url: ''
-    location: California
+    location: Sichuan
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
