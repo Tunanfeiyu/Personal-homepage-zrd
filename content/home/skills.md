@@ -20,27 +20,12 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 40%
-  icon: java
-  icon_pack: fas
-  name: Java
-- description: 20%
-  icon: basektball-ball
-  icon_pack: fas
-  name: Baseketball
-  - description: 20%
-  icon: futbol
-  icon_pack: fas
-  name: Football
-- description: 30%
-  icon: boxing-glove
-  icon_pack: fas
-  name: Boxing
+
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+- icon: ":smile:"
+  icon_pack: "emoji"
+  name: "Emojiness"
+  description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
