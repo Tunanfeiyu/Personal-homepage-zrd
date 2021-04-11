@@ -27,6 +27,7 @@ experience:
     company_url:https://www.hnust.edu.cn/
     location:Xiangtan
     date_start: '2019-9'
+    date_end:'2023-6'
     description:I'm still learning.
-    
+  
 ---
