@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-python
-  icon_pack: fab
+  icon: fa-anchor
+  icon_pack: fas
   name: R
 - description: 100%
   icon: chart-line
