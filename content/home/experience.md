@@ -38,6 +38,6 @@ experience:
     company_url: ''
     location: Sichuan
     date_start: '2001-09-26'
-    date_end: '2016-12-31'
+    date_end: ''
     description: Healthy growth.
 ---
