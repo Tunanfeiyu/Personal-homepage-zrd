@@ -31,5 +31,4 @@ item:
   organization_url: http://cet.neea.edu.cn/
   title: CET-4 written test and oral test
   url: ""
-
 ---
