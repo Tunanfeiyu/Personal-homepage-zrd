@@ -1,18 +1,12 @@
 ---
-title: Example Talk
+title: Feeling after watching burning
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: My Twitter
+event_url: https://twitter.com/tunan666
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+
+summary: Feeling after watching burning
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
