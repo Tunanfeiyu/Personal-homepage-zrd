@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: My daily life
 cms_exclude: true
 
 # View.
