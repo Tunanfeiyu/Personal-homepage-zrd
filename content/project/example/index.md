@@ -9,7 +9,7 @@ date: "2021-04-12T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by screenshot
+  caption: Photo by myself
   focal_point: Smart
 
 links:
