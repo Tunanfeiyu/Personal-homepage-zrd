@@ -37,6 +37,4 @@ design:
   view: 4
 ---
 I don't have a recent publication, but I may use it later, so I keep it.
-## {{% callout note %}}
-## Quickly discover relevant content by [filtering publications](./publication/).
-## {{% /callout %}}
+
