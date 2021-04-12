@@ -25,10 +25,9 @@ publishDate: "2021-04-12T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Mt. Lu Scenic Spote*
-publication_short: In *CHN*
+The location: In *Mt. Lu Scenic Spote*
 
-abstract: Starting from Xiangtan, we first visited Hunan Provincial Museum, then had lunch near Changjun Middle School, then visited Changsha Museum, the next day went to Mt. Lu Scenic Spot, and in the evening went to Orange Island. After that, I went to visit Mao Zedong's former residence in Shaoshan.
+General itinerary: Starting from Xiangtan, we first visited Hunan Provincial Museum, then had lunch near Changjun Middle School, then visited Changsha Museum, the next day went to Mt. Lu Scenic Spot, and in the evening went to Orange Island. After that, I went to visit Mao Zedong's former residence in Shaoshan.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
