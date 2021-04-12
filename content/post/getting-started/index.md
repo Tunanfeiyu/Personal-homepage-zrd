@@ -14,7 +14,7 @@ projects: []
 date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-4-12T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -35,11 +35,9 @@ authors:
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview
