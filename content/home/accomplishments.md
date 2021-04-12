@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2019-11-01"
   description: ""
-  organization: 中国教育考试网
+  organization: China Education Examination Network
   organization_url: http://cet.neea.edu.cn/
   title: CET-4 written test433 and oral test C+
   url: ""
