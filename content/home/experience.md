@@ -33,11 +33,5 @@ experience:
         
         * Studying
         
-  - title: Son
-    company: Myhome
-    company_url: ''
-    location: Sichuan
-    date_start: '2001-09-26'
-    date_end: ''
-    description: Healthy growth.
+ 
 ---
