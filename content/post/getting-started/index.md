@@ -5,7 +5,7 @@ subtitle: Welcome 👋 to my first online web.
 # Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary:  I think this page should still be useful, so I will keep it first. I have commented out the tutorial originally.
+summary:  I think this page should still be useful, so I will keep it first. I have commented out the tutorial originally. This is a tutorial of the website, which is a project on GitHub.
 
 # Link this post with a project
 projects: []
