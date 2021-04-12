@@ -77,4 +77,4 @@ slides: example
 
 
 
-This is my first attempt, including [come back](https://tunan666.netlify.app/).
+[go back](https://tunan666.netlify.app/).
