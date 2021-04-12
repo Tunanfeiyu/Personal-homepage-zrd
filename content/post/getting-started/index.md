@@ -1,11 +1,11 @@
 ---
 title: I haven't published any posts yet
 # Welcome to Wowchemy, the website builder for Hugo
-subtitle: I think this page should still be useful, so I will keep it first. I have commented out the tutorial originally.
+subtitle: Welcome 👋 to my first online web.
 # Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary:  I think this page should still be useful, so I will keep it first. I have commented out the tutorial originally.
 
 # Link this post with a project
 projects: []
