@@ -4,7 +4,13 @@ title:Books Movies Games
 event: My Twitter
 event_url: https://twitter.com/tunan666
 
-
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Favorite books, movies, games
 abstract: nothing.
