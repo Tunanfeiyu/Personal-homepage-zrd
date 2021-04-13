@@ -1,13 +1,12 @@
 ---
-title: Feeling after watching burning
+title:Books Movies Games
 
 event: My Twitter
 event_url: https://twitter.com/tunan666
 
 
 
-summary: Feeling after watching burning
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Favorite books, movies, games
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,7 +31,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/tunan666
 url_code: ""
 url_pdf: ""
 url_slides: ""
