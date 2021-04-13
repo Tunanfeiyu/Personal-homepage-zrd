@@ -1,18 +1,12 @@
 ---
-title:Books Movies Games
+title: Movies Books Games
 
 event: My Twitter
 event_url: https://twitter.com/tunan666
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: Favorite books, movies, games
+
+summary: Feeling after watching burning
 abstract: nothing.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +31,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/tunan666
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
