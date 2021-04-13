@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "A short trip to Changsha on 2020 National Day"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
