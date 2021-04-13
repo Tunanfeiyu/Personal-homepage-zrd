@@ -1,5 +1,5 @@
 ---
-title: "A short trip to Changsha on 2020 National Day"
+title: "2020 National Day"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,7 +33,7 @@ General itinerary : Starting from Xiangtan, we first visited Hunan Provincial Mu
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A short trip to Changsha on 2020 National Day.
 
 tags: []
 
