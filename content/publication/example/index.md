@@ -1,22 +1,23 @@
 ---
-title: "A short trip to Changsha on 2020 National Day"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2021-04-12T00:00:00Z"
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-12T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,11 +26,13 @@ publishDate: "2021-04-12T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-The location: In *Mt. Lu Scenic Spote*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-General itinerary: 2020 National Day
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 # Summary. An optional shortened abstract.
-summary: Starting from Xiangtan, we first visited Hunan Provincial Museum, then had lunch near Changjun Middle School, then visited Changsha Museum, the next day went to Mt. Lu Scenic Spot, and in the evening went to Orange Island. After that, I went to visit Mao Zedong's former residence in Shaoshan.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -71,8 +74,14 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
---- 
+---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-[go back](https://tunan666.netlify.app/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
