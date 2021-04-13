@@ -7,7 +7,7 @@ event_url: https://twitter.com/tunan666
 
 
 summary: Favorite books, movies, games
-
+abstract: nothing.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
