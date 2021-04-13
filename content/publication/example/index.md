@@ -33,8 +33,7 @@ abstract:Starting from Xiangtan, we first visited Hunan Provincial Museum, then 
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 2020 National Day
 tags: []
 
 # Display this page in the Featured widget?
@@ -85,4 +84,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [go back](https://tunan666.netlify.app/).
