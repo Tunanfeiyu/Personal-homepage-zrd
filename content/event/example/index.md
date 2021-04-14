@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**steam**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**steam**](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/)'
   focal_point: Right
 
 links:
