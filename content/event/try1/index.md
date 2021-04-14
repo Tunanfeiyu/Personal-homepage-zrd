@@ -7,9 +7,8 @@ event_url: https://twitter.com/tunan666
 
 
 summary: Burning
-abstract: The main story is that the protagonist Li Zhongxiu meets her former classmate Shen Huimei by chance. After a period of interaction, Huimei is going to Africa and asks Li Zhongxiu to take care of her cat. Huimei has a new boyfriend after she comes back from Africa. She is rich: Ben, the three meet each other, but one night after the party, Huimei suddenly disappears
-
-This film is based on Haruki Murakami's short story "burning barn"
+abstract: The main story is that the protagonist Li Zhongxiu meets her former classmate Shen Huimei by chance. After a period of interaction, Huimei is going to Africa and asks Li Zhongxiu to take care of her cat. Huimei has a new boyfriend after she comes back from Africa. She is rich:Ben, the three meet each other, but one night after the party,Huimei suddenly disappears.
+This film is based on Haruki Murakami's short story "burning barn".
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
