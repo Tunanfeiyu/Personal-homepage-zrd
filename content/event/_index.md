@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Personal experience of daily life
 cms_exclude: true
 
 # View.
