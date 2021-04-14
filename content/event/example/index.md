@@ -1,5 +1,5 @@
 ---
-title: Movies Books Games
+title: Game:There_Is_No_Game
 
 event: My Twitter
 event_url: https://twitter.com/tunan666
@@ -10,12 +10,12 @@ summary: Feeling after watching burning
 abstract: Introduce and share my favorite movies, books and games.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-03-20T09:00:00Z"
+date_end: "2021-03-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-08-07T00:00:00Z"
 
 authors: []
 tags: []
