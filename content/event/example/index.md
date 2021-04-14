@@ -7,7 +7,7 @@ event_url: https://twitter.com/tunan666
 
 
 summary: Feeling after watching burning
-abstract: nothing.
+abstract: Introduce and share my favorite movies, books and games.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**steam**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
