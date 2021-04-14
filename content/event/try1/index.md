@@ -7,8 +7,7 @@ event_url: https://twitter.com/tunan666
 
 
 summary:  Burning
-abstract: 目标成为作家的青年李钟秀（刘亚仁 饰），平日里靠兼职养活自己。经营畜牧业的父亲不谙人情，官司缠身，迫使钟秀又要为了搭救父亲而四处奔走。这一日，钟秀在某大型卖场重逢了当年的同学申惠美（全钟淑 饰）。惠美计划近期前往非洲旅行，于是拜托钟秀照看爱猫Boil。不久后惠美回国，与之一同下飞机的还有名叫本（史蒂文·元 饰）的男子。本驾驶保时捷，居住在高级公寓内，优哉游哉，不见工作，四处玩乐，和钟秀相比有如天上地下。不知为何，本走入平民钟秀和惠美的生活，更向新朋友讲述了他奇特的癖好。在钟秀家小聚的那个晚上过后，惠美仿佛人间蒸发了一般无影无踪……
-　本片根据村上春树的短篇小说《烧仓房》改编.
+abstract: Li Zhongxiu, a young man who aims to become a writer, usually lives on a part-time job. The father who runs the animal husbandry is not familiar with human feelings and is beset with lawsuits, forcing Zhong Xiu to run around to save his father. On this day, Zhong Xiu met her former classmate Shen Huimei in a large store. Huimei plans to travel to Africa in the near future, so she asks Zhong xiuzhao to see boil. Soon after Huimei returned home, a man named Ben got off the plane with her. Ben drives a Porsche and lives in a high-class apartment. He has no work and plays around. Compared with Zhong Xiu, he is like heaven and earth. I don't know why, Ben went into the life of Zhongxiu and Huimei, and told his new friends about his strange hobby. After the night when Zhong Xiu's family got together, Huimei seemed to have disappeared from the world... This film is based on Haruki Murakami's short story burning barn
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
