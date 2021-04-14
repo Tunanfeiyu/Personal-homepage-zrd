@@ -6,8 +6,8 @@ event_url: https://twitter.com/tunan666
 
 
 
-summary: Feeling after watching burning
-abstract: Introduce and share my favorite movies, books and games.
+summary: “There_Is_No_Game is very, very good and very clever.”
+abstract: There are no games here. So don't blindly make trouble and order things everywhere. You don't want to be kicked out of our video game world, do you? Of course not!
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-20T09:00:00Z"
