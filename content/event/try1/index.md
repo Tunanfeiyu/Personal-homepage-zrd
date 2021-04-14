@@ -8,7 +8,7 @@ event_url: https://twitter.com/tunan666
 
 summary: Burning
 abstract:大致剧情就是主角李钟秀偶然间碰到了以前的同学申慧美,有了一段时间的交往后,惠美要去非洲,拜托李钟秀照顾她的猫,惠美从非洲回来之后有了新的男朋友,富豪:本,三人相识相交,但是在三人聚会后的一晚,惠美却突然失踪了...
-本片根据村上春树的短篇小说《烧仓房》改编
+本片根据村上春树的短篇小说"烧仓房"改编
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2030-06-01T13:00:00Z"
