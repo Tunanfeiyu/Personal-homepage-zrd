@@ -16,7 +16,7 @@ main:
   - name: Personal experience of daily life
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: trips
     url: '#featured'
     weight: 50
   - name: Contact
