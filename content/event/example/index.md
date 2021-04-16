@@ -1,16 +1,16 @@
 ---
-title: My Project
-summary: Sophomore's cognition practice report
+title: There_Is_No_Game
+summary: There_Is_No_Game
 tags:
-- College Learning
-date: "2021-04-12T00:00:00Z"
+- game
+date: "2021-04-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by myself
-  focal_point: Smart
+  caption: 'Image credit: [**steam**](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/)'
+  focal_point: Right
 
 links:
 - icon: twitter
