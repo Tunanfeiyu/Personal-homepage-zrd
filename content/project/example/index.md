@@ -1,5 +1,5 @@
 ---
-title: My Project
+title: 认识实习
 summary: Sophomore's cognition practice report
 tags:
 - College Learning
@@ -29,66 +29,36 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Sophomore's cognition practice report(The whole article is machine translated. I wrote the original version in Chinese. If you have any questions, please send me an email)
-
-1. Purpose of practice
-
-(1) understand the employment direction of computer science and technology major.
-
-(2) understand how to learn professional knowledge more systematically in the future.
-
-(3) understand the application of computer science and technology in enterprises.
-
-(4) consolidate theoretical knowledge, cultivate the ability of practice and innovation, and lay a certain practical foundation for the follow-up course.
-
-2. Internship time
-
-December 16th
+一、实习目的
+1.了解计算机科学与技术专业以后的就业方向。
+2.了解以后如何更系统化的学习专业知识。
+3.了解计算机科学与技术专业在企业中的应用情况。
+4.巩固理论知识，培养实践与创新的能力，并为后续课程的学习打下一定实践基础。
+二、实习时间 
+12月16日
 
 9：30—11：30
-
-Jinqiao ICT hall, Jinqiao engineering machinery and construction engineering Museum, Dahan holding group "going to great" theme Hall
-
+金桥ICT馆，金桥工程机械与建筑工程馆，大汉控股集团“走向伟大”主题馆
 
 13：30—15：10
-
-Hunan Xiangjiang Intelligent Technology Innovation Center
-
+湖南湘江智能科技创新中心
 
 16.10—17：40
+湖南科创信息技术股份有限公司
+三、实习单位
+金桥ICT馆
+金桥工程机械与建筑工程馆
+大汉控股集团“走向伟大”主题馆
+湖南湘江智能科技创新中心
+湖南科创信息技术股份有限公司
+四、实习过程
+首先从学校出发，在实习指导老师的指导下参观并学习了金桥ICT馆与金桥工程机械与建筑工程馆，参观了从“大哥大”到现在5G的整个发展历程，并在相关老师讲解及指导下学习了华为人才培养方案，ICT行业发展现状及前景等，并参观了大汉集团大汉控股集团“走向伟大”主题馆，学习了大汉集团的企业文化，其次前往了湖南湘江智能科技创新中心，试乘坐了无人公共汽车，同时在相关人员讲解下了解当下各式的无人交通工具及测试方式，并在相关人员介绍下学习并了解了长沙市乃至湖南省的无人交通的发展情况及发展前景，然后前往湖南科创信息技术股份有限公司参观并学习了其公司的运营及发展模式，并在相关人员讲解下了解当下ICT行业的运行模式，实地参观了行业人员的工作状况及其待遇，了解到了ICT行业所需要的能力要求，最后返回学校。
 
-Hunan Kechuang Information Technology Co., Ltd
-
-3. Internship unit
-
-Golden Bridge ICT Hall
-
-Jinqiao construction machinery and construction engineering Museum
-
-"Going to great" theme Hall of Dahan holding group
-
-Hunan Xiangjiang Intelligent Technology Innovation Center
-
-Hunan Kechuang Information Technology Co., Ltd
-
-4. Practice process
-
-First, from the school, under the guidance of the internship instructor, we visited and learned the Golden Bridge ICT hall and Jinqiao engineering machinery and construction engineering Museum, visited the whole development process from "big brother University" to now 5g, and studied the talent training plan of Huawei, the development status and Prospect of ICT Industry under the guidance of relevant teachers, and visited Dahan holding group of Dahan group "go ahead" In the theme museum of "great", I learned the corporate culture of Dahan group, then went to Hunan Xiangjiang intelligent technology innovation center, tried to take the unmanned bus, and at the same time, I learned about all kinds of unmanned vehicles and test methods under the explanation of relevant personnel, and learned and understood the development and development of unmanned transportation in Changsha and even Hunan Province and before the development Jing, then went to Hunan Science and Technology Information Technology Co., Ltd. to visit and learn its company's operation and development mode, and under the explanation of relevant personnel, I learned the operation mode of ICT industry, visited the working status and treatment of industry personnel on the spot, learned the ability requirements required by ICT Industry, and finally returned to school.
-
-
-
-5. Summary and experience of practice
-
-Although the internship lasted only one day, the impression and feeling that I had left was incomparable, which made me very encouraged. I believe that this internship is a good life experience for me, and I have made a strong preventive injection for me to go to work in the future, which has benefited me a lot.
-
-Treat people sincerely and be willing to communicate with others. As an individual in society, human is a part of society. People should communicate and communicate with each other every moment. So it is very important to deal with the relationship between good people. No matter what work a person does, the first thing to do is to deal with his relationship with the people around him, and to integrate himself into his team better. To make Bai himself better integrated into the team, you must be honest and honest, treat your colleagues sincerely, and be happy to communicate with them. I feel this in the process of internship.
-
-"A journey of thousands of miles starts from the bottom". Although this internship is short, it is very substantial for me. I think it plays a bridge role in my going to the society. The transition function and a very important experience of life will help me to go to work in the future. What this internship learned is not only the knowledge in books, but also the knowledge of doing things for people. To do things, we must learn to be human, understand the truth of being human, and how to get along with people is a basic problem in the society. For those who are going to enter the society two years later, there are many things to learn. They are my best teachers. They are called "three people do, there must be my teacher", and I can learn a lot of knowledge and truth from them. I think it's a precious asset in my life.
-
-ICT is a comprehensive term, which covers all communication equipment or application software and various services and application software related to it. I learned 2G in ICT library, with digital voice transmission technology as the core. The user experience rate is 10kbps and the peak rate is 100kbps. It is generally defined as unable to directly transmit information such as email, software, etc.; it only has the technical specifications of mobile phone communication with calls and some transmission such as time and date. 3G is the third generation mobile communication technology, which is a kind of cellular mobile communication technology which supports high-speed data transmission. 3G service can transmit sound and data information at the same time. 3G is a generation of mobile communication system which combines wireless communication with multimedia communication such as the international Internet. 4G communication technology is the fourth generation mobile information system, which is a better improvement in 3G technology. Compared with 3G communication technology, 3G communication technology has a greater advantage. It combines WLAN technology and 3G communication technology well, which makes the transmission speed of image faster and lets the transmission diagram be made The image quality and image look clearer. 5g is the latest generation of cellular mobile communication technology, and also an extension after 4G, 3G and 2G systems. The performance goals of 5g are high data rate, low latency, energy saving, low cost, high system capacity and large-scale equipment connection. 5g uses small base station, one base station has only shoe box size, signal coverage scope of 250m, peak rate needs to meet gbit/s standard, to meet high-definition video, virtual reality and other large data transmission. The delay level of air interface should be about 1ms, which can meet the real-time application of automatic driving and telemedicine. It has a large network capacity, which provides the connection capacity of hundreds of billion devices, and meets the requirements of Internet of things communication. The spectral efficiency is more than 10 times higher than LTE. Under the continuous wide area coverage and high mobility, the user experience rate reaches 100mbit / s. The density of flow and connection number is greatly increased. The level of system coordination and intelligence is improved, which is manifested in the cooperative network with multi-user, multi-point, multi antenna and multi intake, and flexible and automatic adjustment between networks. 5g will be mainly used in the fields of vehicle networking, surgical operation, smart grid, etc., which has more obvious advantages and stronger functions in the practical application process.
-
-During the visit to the theme Hall of "going to great" of Dahan holding group, their corporate culture impressed me deeply. The Han Dynasty was the man who stood on the top of the sky, and the Han Dynasty was a prosperous and prosperous Chinese, and the Han Dynasty was the Chinese descendants who did great things and made great achievements. The Han Dynasty was the man of the top heaven, and the top was the heaven under the leadership of the Communist Party. What he built was to serve the people wholeheartedly In the business area, their enterprises take social responsibility, realize the value of the enterprise, seek the interests of customers, and grow up with the employees as their mission. They adhere to the business philosophy of being virtuous, trustworthy, diligent and frugal, adhere to the principle of doing big things, willing to do small things, work first, and the eternal work concept of entrepreneurship. They will do everything best. The corporate culture of Dahan group also gives me enlightenment, which is more than the point It is to make their own contribution to the whole industry, to small said to do their own everything.
-
-After visiting and learning from Hunan Xiangjiang intelligent technology innovation center, I learned that their company is an innovative enterprise for the construction and operation of new infrastructure projects such as intelligent network connection and intelligent transportation in the new area, mainly undertaking the operation of national intelligent network vehicle (Changsha) test area, application scenario construction and operation of Changsha intelligent network application scenario and huaweiyun innovation center operation, and is the city's intelligent network designated by the municipal government After taking the driverless bus, I am more proud of the third-party regulatory body of open road test of UnionPay, and I am also looking forward to my future professional knowledge learning. In Changsha, there are also unmanned taxis. Based on the continuous optimization of risk prevention and control mechanism, Changsha municipal government selects mature technology, practical scenarios and stable testing businesses, and focuses on accelerating the promotion of intelligence The general guiding ideology and basic working principles of the application demonstration project of energy grid automobile and the basic working principles of adhering to the first test, strengthening safety control, adhering to step-by-step and consolidating the test foundation are introduced in detail. The three types of application demonstration and operation demonstration scenarios of manned demonstration project, vehicle demonstration project and intelligent environmental sanitation demonstration project are introduced in detail, and the demonstration scope and the demonstration scope and the pilot operation projects are defined The application conditions, the nature of trial operation, the clear premise of security and control to support the legitimate compliance of enterprises for operation exploration. With the rapid development of the network, the Internet has become an important channel for people to quickly acquire, release and transmit information, and it plays an important role in people's politics, economy, life and other aspects. Therefore, the position of website construction in Internet application is obvious, it has become an important part of the information construction of government, enterprises and institutions, and has attracted people's attention.
-
-This internship has given me a great inspiration. First, I want to understand the cultural background and development course and development direction of the whole industry, then to understand the corporate culture of the relevant enterprises, then experience the research results of the industry cutting-edge, and finally implement it to the ground, and really visit and understand a company; from big to small, from deep to shallow, from the development of the whole industry In the personal development, I have a complete understanding of the whole development of ICT industry for the first time, and also have a certain understanding of the big framework of ICT industry. It is the main part of teaching plan to realize internship, the second classroom to train our problem-solving ability, and is a direct understanding of the major, laying a foundation for further learning professional knowledge; this cognitive practice has opened my heart The fog of ICT industry in China has made me have a more stereoscopic and intuitive understanding of ICT industry, and also enables me to better combine learning and practice. On the other hand, it also consolidated and deepened the knowledge I learned in the classroom, and made my theoretical knowledge more solid. At the same time, I also let me go out of ivory tower to contact society in advance, to some extent, reduce my fear of society, let me want to realize my own value, realize real learning thinking, learning has its use and learning has effect.
+五、实习总结和体会 
+实习历时虽然只有一天，但给我留下的印象和感触却是不可比拟的，这让我倍受鼓舞。我相信，通过这次实习对我来说是一次很好的人生经历，对我以后走上工作岗位打了一剂很强的预防针，让我受益匪浅。
+真诚待人，乐于与人沟通。人作为社会中的个人，是社会中的一部分，每时每刻都要与人交流，沟通，所以处理好人与人之间的关系非常重要。一个人无论从事什么工作，首先要做的就是处理好自己与身边的人的关系，是自己更好的融入到他所在的团队中去。而要让白己能更好地融入到团队中去，你就得诚实讲信用，真诚的去对待身边的同事，乐于与他们沟通。在实习的过程中，这点我感受颇深。
+“千里之行，始于足下”，这次实习虽然短暂，但对我来说却很充实，我认为这对我走向社会起到了一个桥梁的作用，过渡的作用，用人生的一段非常重要的经历，对将来走上工作岗位有着很大帮助。这次实习学到的东西不仅仅是书本上的知识，更有为人处事的知识。做事首先要学做人,要明白做人的道理,如何与人相处是现在社会做人的一个最基木的问题。对于我们两年以后就要步入社会的人来说,需要学习的东西很多,而他们就是我最好的老师,正所谓“三人行，必有我师”，而我则可以向他们身上学习很多知识和道理。我觉得这是我一生中的一笔宝贵财富。
+ICT全称information and communications technology，这是一个涵盖性术语，覆盖了所有通信设备或应用软件以及与之相关的各种服务和应用软件，在ICT馆中我了解到了2G，以数字语音传输技术为核心。用户体验速率为10kbps，峰值速率为100kbps。一般定义为无法直接传送如电子邮件、软件等信息；只具有通话和一些如时间日期等传送的手机通信技术规格。3G是第三代移动通信技术，是指支持高速数据传输的蜂窝移动通讯技术。3G服务能够同时传送声音及数据信息。3G是将无线通信与国际互联网等多媒体通信结合的一代移动通信系统，4G通信技术是第四代的移动信息系统，是在3G技术上的一次更好的改良，其相较于3G通信技术来说一个更大的优势，是将WLAN技术和3G通信技术进行了很好的结合，使图像的传输速度更快，让传输图像的质量和图像看起来更加清晰,5G是最新一代蜂窝移动通信技术，也是继4G、3G和2G系统之后的延伸。5G的性能目标是高数据速率、减少延迟、节省能源、降低成本、提高系统容量和大规模设备连接。5G使用小基站的方式，一个基站只有鞋盒大小，信号覆盖范围250m，峰值速率需要达到Gbit/s的标准，以满足高清视频、虚拟现实等大数据量传输。空中接口时延水平需要在1ms左右，满足自动驾驶、远程医疗等实时应用。超大网络容量，提供千亿设备的连接能力，满足物联网通信。频谱效率要比LTE提升10倍以上。连续广域覆盖和高移动性下，用户体验速率达到100Mbit/s。流量密度和连接数密度大幅度提高。系统协同化、智能化水平提升，表现为多用户、多点、多天线、多摄取的协同组网，以及网络间灵活地自动调整。5G将主要应用在车联网，外科手术，智能电网等领域中，其在实际应用过程中表现出更加明显的优势更加强大的功能。
+在参观大汉控股集团“走向伟大”主题馆，他们的，企业文化给我留下了很深的印象，大汉是顶天立地的男子汉，大汉是繁荣富强的盛世中华，大汉是干大事流大汉成大业的炎黄子孙，大汉是顶天立地的男子汉，顶的是共产党领导下的天，立的是全心全意为人民服务的地，他们企业以承担社会责任，实现企业价值，为客户谋利益，与员工共成长为使命，坚持纳贤，守信，勤奋，俭朴的经营理念，坚持大事会做，小事愿做，工作第一，创业永恒的工作理念，将每一点做到最好，大汉集团的企业文化也给了我启示，往大了说的是为整个行业做出自己的贡献，往小了说是做好自己的每一件事。
+在湖南湘江智能科技创新中心参观学习后，我了解到他们公司是新区智能网联、智能交通等新基建项目建设运营的创新型企业，主要承担国家智能网联汽车（长沙）测试区运营、长沙市智能网联应用场景建设运营和华为云创新中心运营，是市政府指定的全市智能网联汽车开放道路测试第三方监管机构，乘坐了无人驾驶公共汽车后，我更感到自豪，也对我以后的专业知识的学习感到期待，在长沙还有无人驾驶出租车，长沙市政府在不断优化风险防控机制的基础上，选取技术成熟、场景实用、测试稳定的业务，重点加快推进智能网联汽车应用示范项目的总体指导思想和坚持先行先试、加强安全管控、坚持循序渐进、夯实测试基础的基本工作原则，详细介绍了载人示范项目、载物示范项目、智能环卫示范项目三类应用示范与运营示范场景，明确了示范范围及各类示范项目和试运营项目的申请条件，界定了试运营的性质，明确了在安全可控的前提下支持企业合法合规的进行运营探索，在网络飞速发展的今天，互联网成为人们快速获取、发布和传递信息的重要渠道，它在人们政治、经济、生活等各个方面发挥着重要的作用。因此网站建设在互联网应用上的地位显而易见，它已成为政府、企事业单位信息化建设中的重要组成部分，从而倍受人们的重视。
+本次实习给了我很大的启发，首先去了解整个行业大的文化背景与行业的发展历程和发展方向，而后去了解有关企业的企业文化，其次再亲身体验了行业尖端的研究成果，最后再落实到地，真正的去参观并了解了一家公司；从大到小，由深入浅，从整个行业的发展再到个人的发展，让我第一次完整的了解到了ICT行业的整个发展状况，也对ICT行业大的框架有了一定的认识，认识实习是教学计划的主要部分，是培养我们解决问题能力的第二课堂，是对专业的直接认识，为进一步学习专业知识打下基础；这次认识实习揭开了我心中对ICT行业的迷雾，让我对ICT行业有了更加立体的更加直观的了解，也让我能将学习与实践更好结合在一起，另一方面也巩固并加深了再课堂上所学到的知识，让我的理论知识更扎实。同时也让我提前走出象牙塔去接触社会，在一定程度上减少了我对社会的“恐惧”，让我更加想实现自身的价值，实现真正的学有所思，学有所用，学有所效。
