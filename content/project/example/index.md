@@ -1,6 +1,6 @@
 ---
 title: 认识实习
-summary: Sophomore's cognition practice report
+summary: 大二上期认识实习
 tags:
 - College Learning
 date: "2021-04-12T00:00:00Z"
@@ -22,13 +22,9 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+
 ---
+
 一、实习目的
 1.了解计算机科学与技术专业以后的就业方向。
 2.了解以后如何更系统化的学习专业知识。
