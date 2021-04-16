@@ -46,7 +46,7 @@ url_video: ''
 
 
 ---
-General itinerary : Starting from Xiangtan, we first visited Hunan Provincial Museum, then had lunch near Changjun Middle School, then visited Changsha Museum, the next day went to Mt. Lu Scenic Spot, and in the evening went to Orange Island. After that, I went to visit Mao Zedong's former residence in Shaoshan.
+General itinerary : 从湘潭出发，我们先参观了湖南省博物馆，然后在长军中学附近吃了午饭，然后参观了长沙博物馆，第二天去了岳麓山风景区，晚上去了橘子洲。之后去韶山参观了毛泽东故居。
 
 
 
