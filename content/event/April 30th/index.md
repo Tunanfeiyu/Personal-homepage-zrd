@@ -9,7 +9,7 @@ date: "2021-04-30T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Image credit: [**steam**](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/)'
+  caption: 'Image credit: [**League of Heroes**](https://lol.qq.com/main.shtml)'
   focal_point: Right
 
 links:
@@ -29,8 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-there is no game
-
-游戏开篇是充满了搞笑与荒诞的，与传统的游戏不仅是不同，而且是故意做的对立面，用户的交互界面都故意做成相反的，但是界面依然是友善的，这个游戏的特点就是打破常规。
-最后程序与程序之间，与程序员之间，与bug之间的互动也很有趣，他们都有了人的思想和感情，结局很感动，并且游戏并没有为难玩家，解密不会的话是有提示的，我在一个周六的中午玩了这个游戏，5个小时左右通关，个人感觉是很舒服的游戏，适合一个人花一下午玩，很放松.
+4月30日游玩英雄联盟的趣事 
+ 
+我们寝室3个人，第一把我玩的索拉卡辅助，adc是EZ，上单刀妹，我俩下路对线艾希加布隆，艾希是744把的，布隆是没打过的，然后很显然，我们就碾压了对面，结果第二把就排到了他们，第二把我打野豹女，辅助塞娜，上单刀妹，然后我们就被揍了，然后开始喷，上一把的布隆，也就是这一把的加里奥，喷了一句，和他对线他能打爆我们，他好像没有发现我们上一把真的是和他对线的，而且打爆了他，然后他就一直嘴硬，太好笑了。
