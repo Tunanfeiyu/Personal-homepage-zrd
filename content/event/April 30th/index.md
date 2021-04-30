@@ -1,9 +1,9 @@
 ---
-title: There_Is_No_Game
-summary: There_Is_No_Game
+title: League of Heroes
+summary: 4月30日玩英雄联盟发生的趣事
 tags:
 - game
-date: "2021-04-16T00:00:00Z"
+date: "2021-04-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
