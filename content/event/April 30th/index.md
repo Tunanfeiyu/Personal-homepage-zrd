@@ -22,13 +22,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
----
+
 4月30日游玩英雄联盟的趣事 
  
 我们寝室3个人，第一把我玩的索拉卡辅助，adc是EZ，上单刀妹，我俩下路对线艾希加布隆，艾希是744把的，布隆是没打过的，然后很显然，我们就碾压了对面，结果第二把就排到了他们，第二把我打野豹女，辅助塞娜，上单刀妹，然后我们就被揍了，然后开始喷，上一把的布隆，也就是这一把的加里奥，喷了一句，和他对线他能打爆我们，他好像没有发现我们上一把真的是和他对线的，而且打爆了他，然后他就一直嘴硬，太好笑了。
