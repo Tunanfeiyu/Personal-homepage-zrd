@@ -37,6 +37,6 @@ item:
   description: ""
   organization: Putonghua training and testing station of Hunan University of science and technology
   organization_url: http://www.cltt.org/
-  title: Putonghua test grade II A
+  title: Putonghua test grade 2A
   url: ""
 ---
