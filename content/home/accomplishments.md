@@ -27,16 +27,15 @@ item:
   date_end: ""
   date_start: "2019-11-01"
   description: ""
-  organization: China Education Examination Network
+  organization: Coursera
   organization_url: http://cet.neea.edu.cn/
   title: CET-4 written test 433 and oral test C+
   url: ""
 - certificate_url: http://www.cltt.org/
   date_end: ""
-  date_start: "2021-4-17"
+  date_start: "22021-04-17"
   description: ""
-  organization: Putonghua training and testing station of Hunan University of science and technology
+  organization: edX
   organization_url: http://www.cltt.org/
   title: Putonghua test grade 2A
-  url: ""
 ---
