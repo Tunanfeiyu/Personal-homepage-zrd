@@ -31,8 +31,6 @@ item:
   organization_url: http://cet.neea.edu.cn/
   title: CET-4 written test 433 and oral test C+
   url: ""
-  
-  item:
 - certificate_url: http://www.cltt.org/
   date_end: ""
   date_start: "2021-4-17"
