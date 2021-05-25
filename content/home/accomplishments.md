@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: http://www.cltt.org/
   date_end: ""
-  date_start: "22021-04-17"
+  date_start: "2021-04-17"
   description: ""
   organization: edX
   organization_url: http://www.cltt.org/
