@@ -37,8 +37,8 @@ item:
   date_end: ""
   date_start: "2021-4-17"
   description: ""
-  organization: 湖南科技大学普通话培训测试站
+  organization: Putonghua training and testing station of Hunan University of science and technology
   organization_url: http://www.cltt.org/
-  title: 普通话考试 二甲
+  title: Putonghua test grade II A
   url: ""
 ---
