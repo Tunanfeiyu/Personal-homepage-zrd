@@ -1,5 +1,5 @@
 ---
-title: League of Heroes
+title: NBA
 summary: 2021nba
 tags:
 - game
