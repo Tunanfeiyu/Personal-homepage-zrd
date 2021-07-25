@@ -1,6 +1,6 @@
 ---
 title: 操作系统思政小论文
-summary: 大二(下)操作系统思政小论文
+summary: 论国产操作系统的研发及其软件生态系统建设的重要性
 tags:
 - College Learning
 date: "2021-06-30T00:00:00Z"
