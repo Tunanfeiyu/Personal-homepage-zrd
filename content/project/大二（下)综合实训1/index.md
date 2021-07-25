@@ -1,4 +1,29 @@
+---
+title: 综合实训1
+summary:  图书管理系统
+tags:
+- College Learning
+date: "2021-06-30T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by myself
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tunan666
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+
+---
 一、实验题目
 
 图书管理系统
