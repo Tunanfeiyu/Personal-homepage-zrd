@@ -1,3 +1,29 @@
+---
+title: EDA
+summary:  拔河游戏A
+tags:
+- College Learning
+date: "2021-06-30T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by myself
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tunan666
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+
+---
 拔河游戏A设计（EDA）
 一、题目功能分析：
 1）设计拔河游戏电路，用按键与LED表示输入与输出。 
