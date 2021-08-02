@@ -2,7 +2,7 @@
 title: minami drop
 summary: 美波新专辑drop
 tags:
-- game
+- music
 date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
