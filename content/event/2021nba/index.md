@@ -2,7 +2,7 @@
 title: NBA
 summary: 2021nba
 tags:
-- game
+- Sports
 date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
