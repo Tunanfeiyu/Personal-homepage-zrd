@@ -2,7 +2,7 @@
 title: 2021summer vacation
 summary: 大二至大三暑假中期小结
 tags:
-- game
+- life
 date: "2021-07-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
