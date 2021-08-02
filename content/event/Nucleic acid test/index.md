@@ -2,7 +2,7 @@
 title: Nucleic acid test
 summary: 2021年7月27日核酸检测
 tags:
-- game
+- life
 date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
