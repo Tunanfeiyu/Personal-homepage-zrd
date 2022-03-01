@@ -1,9 +1,9 @@
 ---
 title: 人事管理系统
-summary: 运用软件工程的方法
+summary: 应用软件工程方法进行软件架构
 tags:
 - College Learning
-date: "2022-02-25T00:00:00Z"
+date: "2022-02-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
