@@ -1,6 +1,6 @@
 ---
 title: 认识实习
-summary: 大二(上)认识实习
+summary: 学校组织的认识实习
 tags:
 - College Learning
 date: "2021-04-12T00:00:00Z"
