@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhou Ruidi
+title: 周瑞迪
 
 # Is this the primary user of the site?
 superuser: true
