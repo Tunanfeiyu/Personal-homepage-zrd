@@ -20,13 +20,13 @@ bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数
 interests:
 - 软件测试开发
 - java
-- 
+- 前端
 
 # Education to show in About widget
 education:
   courses:
-  - course: Students majoring in computer science and technology of Hunan University of science and technology
-    year: 2021
+  - course: 湖南科技大学计算机科学与技术
+    year: 2019.09至今
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,7 +51,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zrd-tunan@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
