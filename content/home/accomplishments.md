@@ -38,11 +38,11 @@ item:
   organization: edX
   organization_url: http://www.cltt.org/
   title: 普通话二级甲等
-- certificate_url: 
+- certificate_url: https://gab.122.gov.cn/
   date_end: ""
   date_start: "2020-08-00"
   description: ""
-  organization: 
-  organization_url: 
+  organization: 12123
+  organization_url: https://gab.122.gov.cn/
   title: 机动车驾驶证
 ---
