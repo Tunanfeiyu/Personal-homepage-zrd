@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
+  icon: 
+  icon_pack: 
   name: Studying
 - description: 70%
   icon: 
@@ -28,6 +28,10 @@ feature:
   icon: 
   icon_pack: 
   name: Enterprise Architect
+- description: 80%
+  icon: 
+  icon_pack: 
+  name: office
 
 design:
   background:
