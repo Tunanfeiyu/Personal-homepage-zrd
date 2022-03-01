@@ -20,6 +20,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Studying
+- description: 70%
+  icon: 
+  icon_pack: 
+  name: Axure RP
+- description: 60%
+  icon: 
+  icon_pack: 
+  name: Enterprise Architect
 
 design:
   background:
