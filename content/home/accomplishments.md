@@ -40,7 +40,7 @@ item:
   title: 普通话二级甲等
 - certificate_url: https://gab.122.gov.cn/
   date_end: ""
-  date_start: "2020-08-00"
+  date_start: "2020-08-12"
   description: ""
   organization: 12123
   organization_url: https://gab.122.gov.cn/
