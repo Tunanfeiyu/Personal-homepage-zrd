@@ -14,7 +14,7 @@ organizations:
   url: https://www.hnust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，英语四级口试C+，普通话二甲，熟悉office等办公软件，常使用office完成项目报告，课程作业；在有明确的目标下执行力强，曾获得学院“奋进奖”。
+bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，英语四级口试C+，普通话二甲，熟悉office等办公软件，常使用office完成项目报告，课程作业；在有明确的目标下执行力强，曾获学院“奋进奖”。
 
 # Interests to show in About widget
 interests:
