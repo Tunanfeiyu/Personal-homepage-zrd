@@ -117,9 +117,11 @@ url_video: ""
 
 
 登录和修改密码模块的主要功能需求如下图：
+
 ![image](https://user-images.githubusercontent.com/56355246/156125185-2c2c7242-623a-4dfc-8385-d9e6f2d8f4f6.png)
 
 登录和修改密码简单任务示意图:
+
 ![image](https://user-images.githubusercontent.com/56355246/156125215-c7488439-22df-49a5-8f90-6199c87bbf00.png)
 
 
