@@ -1,5 +1,5 @@
 ---
-title: EDA
+title: 数字系统设计（EDA）
 summary:  拔河游戏A
 tags:
 - College Learning
