@@ -6,11 +6,11 @@ title: 周瑞迪
 superuser: true
 
 # Role/position/tagline
-role: 湖南科技大学本科
+role: 湖南科技大学计算机科学与技术专业
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hunan University of science and technology
+- name: 湖南科技大学
   url: https://www.hnust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
