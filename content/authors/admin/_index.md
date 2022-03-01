@@ -6,7 +6,7 @@ title: 周瑞迪
 superuser: true
 
 # Role/position/tagline
-role: Undergraduates in Hunan University of science and technology
+role: 湖南科技大学本科
 
 # Organizations/Affiliations to show in About widget
 organizations:
