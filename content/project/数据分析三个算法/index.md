@@ -1,6 +1,6 @@
 ---
 title: 数据分析
-summary: 三个特别基础的算法
+summary: 两个基础的算法
 tags:
 - College Learning
 date: "2021-11-22T00:00:00Z"
@@ -98,8 +98,82 @@ Apriori算法
 
  ---
 实验结果与分析
+
 1、
 样本事务数据库为
+
 ![image](https://user-images.githubusercontent.com/56355246/156108769-bdb4beb4-77ba-41f0-a4a9-d2e5c8923a43.png)
+
 代码运行结果如下
+
 ![image](https://user-images.githubusercontent.com/56355246/156108834-6b405686-869c-4f33-9c8f-b57592a8a8f7.png)
+
+我在设计该算法时遇到了一些小问题，首先是数据的保存，开始想用指针的方式来做，但是逻辑较为复杂，改用数组后，由于定义多个数组结构很混乱，最后采用结构体数组的方式处理数据，算法参照了教材上的如下图的伪代码，结合自己存储数据的方式写为完整的c代码即可即可。
+
+![image](https://user-images.githubusercontent.com/56355246/156109004-c744e497-720c-40ed-92d8-a361f8eca344.png)
+
+![image](https://user-images.githubusercontent.com/56355246/156109285-9b8493b1-7d14-4587-a921-2534b39d0a2d.png)
+
+![image](https://user-images.githubusercontent.com/56355246/156109292-cbd96dde-5365-48f1-838c-1d9c74626e8f.png)
+
+---
+
+AGNES层次聚类算法
+对AGNES层次聚类算法进行设计实验，给出一个样本数据，对它实施AGNES层次聚类算法，该方法是自底向上的方法，初始每个对象看做一个簇，每一步合并最相近的簇，最终形成一个簇。
+直接采用链表的思想及结构来实现agnes算法
+
+核心算法如下：
+    for(int it_cnt =0;it_cnt<n-k;it_cnt++){
+        minDis = pow((head->next->x - head->next->next->x),2)+pow((head->next->y - head->next->next->y),2);//初始最小距离的平方是前两个簇的距离
+        p3 = head->next;
+        prep4 = p3;//记录p4的前一个节点
+        p4 = head->next->next;//初始p3,p4记录最小距离的两个簇的位置
+        p1 = head->next;
+        while(p1->next!=NULL){
+          p2=p1->next;
+          struct zu *prep2=p1;//记录p2前面的簇，方便记录prep4
+          while(p2!=NULL){
+            //计算距离
+            double tmpdis = pow((p1->x - p2->x),2)+pow((p1->y - p2->y),2);
+            if(tmpdis<minDis){//比最小距离小
+              minDis = tmpdis;
+              p3=p1;
+              p4=p2;
+              prep4=prep2;
+            }
+            prep2=p2;
+            p2=p2->next;
+          }
+          p1=p1->next;
+        }
+
+        //一次遍历，获得距离最近的两个簇p3,p4，将p4合并到p3，删除p4.
+        //合并
+        for(int i=0;i<p4->cnt;i++){
+          p3->d[p3->cnt]=p4->d[i];
+
+          p3->cnt++;
+        }
+        //删除p4
+        prep4->next=p4->next;
+        free(p4);
+        //重新计算p3的中心点
+        int tempsumx=0,tempsumy=0;
+        for(int i = 0 ;i< p3->cnt;i++){
+          tempsumx+=d[p3->d[i]].x;
+          tempsumy+=d[p3->d[i]].y;
+        }
+        p3->x=1.0*tempsumx/p3->cnt;
+        p3->y=1.0*tempsumy/p3->cnt;
+      }
+
+使用的样本数据库
+![image](https://user-images.githubusercontent.com/56355246/156109508-0a36aa67-f2b0-4363-a6df-681823f1e781.png)
+
+理论上的执行过程
+![image](https://user-images.githubusercontent.com/56355246/156109655-cc7d9bb5-b9d9-4731-8b07-c9df45ed3e86.png)
+
+结果
+![image](https://user-images.githubusercontent.com/56355246/156109677-6d18e492-af68-48bc-8f29-cd1a392bf444.png)
+
+过程中遇到的最大的问题就是，用什么结构来实现，我最开始采用了数组的方式，但是二维数组不能很好的保存簇的序号，我想过设定一个三维数组，但是在学习借鉴了他人的算法思想后，采用了链表的结构解决了这一问题。
