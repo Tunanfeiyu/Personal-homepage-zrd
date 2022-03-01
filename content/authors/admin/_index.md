@@ -17,13 +17,13 @@ organizations:
 bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，英语四级口试C+，普通话二甲，熟悉java，c语言，了解c++，python，有一定安卓开发能力；熟悉office等办公软件，常使用office完成项目报告，课程作业；在有明确的目标下执行力强，曾获学院“奋进奖”。
 
 # Interests to show in About widget
-倾向于:
+Interests:
 - 软件测试开发
 - java
 - 前端
 
 # Education to show in About widget
-教育经历:
+Education:
   courses:
   - course: 湖南科技大学计算机科学与技术
     year: 2019.09至今
