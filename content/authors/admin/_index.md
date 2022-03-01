@@ -56,8 +56,8 @@ email: "zrd-tunan@qq.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-我是湖南科技大学计算机科学与技术专业大三的学生，这个网站是个人网站，使用wowchemy在netlify托管的，是个人简历网，主要有我所做过的项目，我的技能，以及我的一些日常。
-我的邮箱是(zrd-tunan@qq.com)我的联系电话：(86-17381751252).
+我是湖南科技大学计算机科学与技术专业大三的学生，这个网站算是个人的简历网，使用wowchemy在netlify上托管的，主要有我所做过的项目，我的技能，以及我的一些日常。
+邮箱：(zrd-tunan@qq.com)联系电话：(86-17381751252).
 
 
 
