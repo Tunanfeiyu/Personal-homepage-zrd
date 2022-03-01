@@ -32,70 +32,70 @@ Apriori算法
 
 生成1项候选集的算法关键代码
 
-for(i=1; i<=nn; i++) //交易集
-    {
-        for(j=1; j<=D[i].item[0]; j++) // 某个交易集中的记录
+    for(i=1; i<=nn; i++) //交易集
         {
-            temp=1;
-            for(k=1; k<=no; k++)   //no：候选集中数据项的个数
+            for(j=1; j<=D[i].item[0]; j++) // 某个交易集中的记录
             {
-                if(C[1][k].item[1]==D[i].item[j])//一项候选集的第k项的值等于第i条交易中第j项的值
+                temp=1;
+                for(k=1; k<=no; k++)   //no：候选集中数据项的个数
                 {
-                    C[1][k].item[0]++; //一项候选集的第k项的支持度加1
-                    temp=0;
- 
-                }
-            }
- 
-            if(temp)//第i条交易中的第j数不在候选集中  添加  生成新的项集
-            {
- 
-                C[1][++no].item[1]=D[i].item[j];
-                C[1][no].item[0]=1;
-            }
- 
-        }
-用频繁集Ln-1为基础，通过连接得到n项候选集Cn的算法关键代码
- for(i = 1; i <= num; i++) //扫描频繁项集
-    {
- 
-        for(j = i+1; j <= num; j++)
-        {
- 
-            temp = 1; //测试是否满足连接条件
-            if(n > 2)//可能有重复项
-            {
-                for(k = 1; k < n-1; k++)
-                {
-                    if(L[n-1][i].item[k] != L[n-1][j].item[k])//相同位置有相同的项才连接
+                    if(C[1][k].item[1]==D[i].item[j])//一项候选集的第k项的值等于第i条交易中第j项的值
                     {
-                        temp = 0;
-                        break;
+                        C[1][k].item[0]++; //一项候选集的第k项的支持度加1
+                        temp=0;
+
                     }
                 }
-            }
-            if(temp==1)//满足连接条件
-            {
-                no++;
-                for(p = 1; p <= n-1; p++)
-                    C[n][no].item[p] = L[n-1][i].item[p];   
-                C[n][no].item[p] = L[n-1][j].item[p-1];	                
-C[n][no].item[0] = 0;
-                for(q = 1; q <= nn; q++) // 测试支持度
+
+                if(temp)//第i条交易中的第j数不在候选集中  添加  生成新的项集
                 {
-                    count = 0;                     
-for(s = 1; C[n][no].item[s] != 0; s++)                     {
-                        for(t = 1; t <= D[q].item[0]; t++) //遍历第q条记录
+
+                    C[1][++no].item[1]=D[i].item[j];
+                    C[1][no].item[0]=1;
+                }
+
+            }
+    用频繁集Ln-1为基础，通过连接得到n项候选集Cn的算法关键代码
+     for(i = 1; i <= num; i++) //扫描频繁项集
+        {
+
+            for(j = i+1; j <= num; j++)
+            {
+
+                temp = 1; //测试是否满足连接条件
+                if(n > 2)//可能有重复项
+                {
+                    for(k = 1; k < n-1; k++)
+                    {
+                        if(L[n-1][i].item[k] != L[n-1][j].item[k])//相同位置有相同的项才连接
                         {
-                            if(C[n][no].item[s] == D[q].item[t])  
-{ count=count+ 1;
-                                break; }} }
-                    if(count == n) //第n项候选集的第no条记录
-                        C[n][no].item[0] += 1;//子集存在,第no项的支持度加1
- 
-                      }
- C[n][0].item[0] += 1;}  }   }
- 
+                            temp = 0;
+                            break;
+                        }
+                    }
+                }
+                if(temp==1)//满足连接条件
+                {
+                    no++;
+                    for(p = 1; p <= n-1; p++)
+                        C[n][no].item[p] = L[n-1][i].item[p];   
+                    C[n][no].item[p] = L[n-1][j].item[p-1];	                
+    C[n][no].item[0] = 0;
+                    for(q = 1; q <= nn; q++) // 测试支持度
+                    {
+                        count = 0;                     
+    for(s = 1; C[n][no].item[s] != 0; s++)                     {
+                            for(t = 1; t <= D[q].item[0]; t++) //遍历第q条记录
+                            {
+                                if(C[n][no].item[s] == D[q].item[t])  
+    { count=count+ 1;
+                                    break; }} }
+                        if(count == n) //第n项候选集的第no条记录
+                            C[n][no].item[0] += 1;//子集存在,第no项的支持度加1
+
+                          }
+     C[n][0].item[0] += 1;}  }   }
+
  ---
 实验结果与分析
 1、
