@@ -68,15 +68,15 @@ x有初始值为0，按键K6按下则赋值为零，此时使对led_r恢复初�
 ---
 三、代码实现：
 
-library IEEE;
+  library IEEE;
 
-use IEEE.STD_LOGIC_1164.ALL;
+  use IEEE.STD_LOGIC_1164.ALL;
 
-use IEEE.STD_LOGIC_ARITH.ALL;
+  use IEEE.STD_LOGIC_ARITH.ALL;
 
-use IEEE.STD_LOGIC_UNSIGNED.ALL;
+  use IEEE.STD_LOGIC_UNSIGNED.ALL;
 
-ENTITY control IS
+  ENTITY control IS
 
 	PORT(	 
   
@@ -90,10 +90,10 @@ ENTITY control IS
 		
     led:         out std_logic_vector(23 downto 0));
 
-END control;
+  END control;
 
 
-ARCHITECTURE Behavioral OF control IS
+  ARCHITECTURE Behavioral OF control IS
 	
   signal State      :   std_logic_vector(3 downto 0);
 	
@@ -113,7 +113,7 @@ ARCHITECTURE Behavioral OF control IS
 	
   signal cnt:std_logic_vector(7 downto 0);
 
-BEGIN
+  BEGIN
 	
   led <= led_r;
 	
@@ -289,9 +289,9 @@ BEGIN
 		
     END IF;
 	
-  END PROCESS;
+   END PROCESS;
 
-END Behavioral;
+  END Behavioral;
 
 ---
 四、设计心得、体会：
