@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: http://cet.neea.edu.cn/
-  title: CET-4 written test 433 and oral test C+
+  title: 英语四级and 英语四级口试 C+
   url: ""
 - certificate_url: http://www.cltt.org/
   date_end: ""
@@ -37,5 +37,12 @@ item:
   description: ""
   organization: edX
   organization_url: http://www.cltt.org/
-  title: Putonghua test grade 2A
+  title: 普通话二级甲等
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-08-00"
+  description: ""
+  organization: 
+  organization_url: 
+  title: 普通话二级甲等
 ---
