@@ -23,7 +23,7 @@ bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数
 - 前端
 
 # Education to show in About widget
-education:
+教育经历:
   courses:
   - course: 湖南科技大学计算机科学与技术
     year: 2019.09至今
