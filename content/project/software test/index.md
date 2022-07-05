@@ -51,3 +51,30 @@ Junit单元测试（1）固定片断方法（Fixture）（2）异常处理（3�
 ![image](https://user-images.githubusercontent.com/56355246/177249425-d0536bf6-21e4-4dc5-8db2-dd916d3161ec.png)
 使用固定片段的方法，测试了（1）中测试用例的的前4个
 
+---
+2.异常处理
+
+在被测程序中，如果不符合weight>0且height>0则抛出异常
+
+![image](https://user-images.githubusercontent.com/56355246/177249940-91d54327-69dc-4991-9b95-c2b0245652dc.png)
+
+![image](https://user-images.githubusercontent.com/56355246/177249955-735e1242-85e7-4de1-8d3d-a4f3a22ef02e.png)
+
+![image](https://user-images.githubusercontent.com/56355246/177249967-96d0fe7c-14dc-4678-9afe-7ae0fc148b6c.png)
+
+使用异常处理测试了（1）中测试用例的后3个
+
+---
+3.条件测试
+我现在只希望测试（1）中的第1个和第6个，即使用条件测试的方法标记一个@Disable即可
+
+![image](https://user-images.githubusercontent.com/56355246/177250012-8628f58b-a21c-4065-91f7-0c2f3c84e594.png)
+
+![image](https://user-images.githubusercontent.com/56355246/177250024-08bcd274-0afe-474f-9034-6dbee88a808d.png)
+
+---
+4.参数注入方法
+
+测试了（1）测试用例中的前4个
+![image](https://user-images.githubusercontent.com/56355246/177250073-0732b411-7501-475c-b30d-734ed0c862dd.png)
+![image](https://user-images.githubusercontent.com/56355246/177250086-06e53189-b764-4d08-8a17-cfc0c9651098.png)
