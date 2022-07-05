@@ -46,9 +46,11 @@ Junit单元测试（1）固定片断方法（Fixture）（2）异常处理（3�
 1.固定片段方法：
 
 代码：
+
 ![image](https://user-images.githubusercontent.com/56355246/177249308-937258a3-5a6b-4a7e-9ace-9f59fc2f8df1.png)
 
 ![image](https://user-images.githubusercontent.com/56355246/177249425-d0536bf6-21e4-4dc5-8db2-dd916d3161ec.png)
+
 使用固定片段的方法，测试了（1）中测试用例的的前4个
 
 ---
@@ -76,5 +78,7 @@ Junit单元测试（1）固定片断方法（Fixture）（2）异常处理（3�
 4.参数注入方法
 
 测试了（1）测试用例中的前4个
+
 ![image](https://user-images.githubusercontent.com/56355246/177250073-0732b411-7501-475c-b30d-734ed0c862dd.png)
+
 ![image](https://user-images.githubusercontent.com/56355246/177250086-06e53189-b764-4d08-8a17-cfc0c9651098.png)
