@@ -1,6 +1,6 @@
 ---
 title: 软件测试技术
-summary: 单元测试，黑盒测试，白盒测试，性能与自动化测试
+summary: 单元测试
 tags:
 - College Learning
 date: "2022-05-09T00:00:00Z"
