@@ -14,11 +14,11 @@ organizations:
   url: https://www.hnust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 目前湖南科技大学计算机科学与技术专业大三，主修《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，英语四级口试C+，普通话二甲，熟悉java，c语言，了解c++，python，有一定安卓开发能力；熟悉office等办公软件，常使用office完成项目报告，课程作业；在有明确的目标下执行力强，曾获学院“奋进奖”。
+bio: 湖南科技大学计算机科学与技术专业，学习《软件测试技术》《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，口试C+，普通话二甲，熟悉c语言，java，了解c++，python，java web，数据库，有一定的安卓开发能力；熟悉软件测试基本流程，熟练使用office等常用办公软件；在有明确的目标下执行力强，曾获学院“奋进奖”。
 
 # Interests to show in About widget
 Interests:
-- 软件测试开发
+- 软件测试
 - java
 - 前端
 
@@ -56,10 +56,8 @@ email: "zrd-tunan@qq.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-湖南科技大学计算机科学与技术专业大三的学生，这个网站是我的个人的简介，主要有我所做过的项目，我的技能，以及我的一些日常。主修《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，英语四级口试C+，普通话二甲，熟悉java，c语言，了解c++，python，有一定安卓开发能力；熟悉office等办公软件，常使用office完成项目报告，课程作业；在有明确的目标下执行力强，曾获学院“奋进奖”。从小学习乐器萨克斯，为人处事和平，容易相处，集体荣誉感强。
+  湖南科技大学计算机科学与技术专业，学习《软件测试技术》《数据结构》《数据库系统》《计算机组成原理》《操作系统》《数据分析技术》《软件工程》《计算机网络》；英语四级，口试C+，普通话二甲，熟悉c语言，java，了解c++，python，java web，数据库，有一定的安卓开发能力；熟悉软件测试基本流程，熟练使用office等常用办公软件；在有明确的目标下执行力强，曾获学院“奋进奖”。
 
 邮箱：(zrd-tunan@qq.com)联系电话：(86-17381751252).
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
